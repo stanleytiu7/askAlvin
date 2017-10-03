@@ -2,6 +2,16 @@
 Inspired by Alvin and his incredible abilities for recommending great places to eat around New York City,
 we decided to work on this project during the 4 day 'stack'-a-thon that FSA holds.
 
+### Technologies Used:
+
+- [ ] React-Redux with materialize
+- [ ] Node.js
+- [ ] Express.js
+- [ ] Postgresql
+- [ ] Google Places API
+- [ ] React Google Maps (adapted for own use)
+- [ ] External Fullstack Academy API
+
 ### These are what I want to yield from doing this project.
 
 - [ ] Get the Best Pizza, Hamburger, Icecream, Taco, Pho, Bar Places in New York City from recommendations of classmates
